@@ -1,1 +1,1 @@
-# weixin_inject
+# QT实现微信插入DLL文件的代码
